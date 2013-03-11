@@ -51,6 +51,7 @@ projects[] = empty_page
 projects[] = entityreference
 projects[] = entityreference_prepopulate
 projects[] = entity
+projects[] = features
 projects[] = field_collection
 projects[] = field_group
 projects[] = filefield_sources
@@ -62,6 +63,7 @@ projects[] = google_fonts
 projects[] = inline_entity_form
 projects[] = insert
 projects[] = invite
+projects[] = jquery_update
 projects[] = l10n_update
 projects[less][version] = 2.6
 projects[] = libraries
@@ -116,6 +118,14 @@ projects[amt_boron][type] = "theme"
 projects[amt_boron][download][type] = "git"
 projects[amt_boron][download][url] = "git@bitbucket.org:lolmaus/amt_boron.git"
 projects[amt_boron][download][branch] = "signs-clearance"
+
+projects[abrk][type] = "theme"
+projects[abrk][download][type] = "git"
+projects[abrk][download][url] = "git@bitbucket.org:lolmaus/abrk.git"
+
+projects[poly_boron][type] = "theme"
+projects[poly_boron][download][type] = "git"
+projects[poly_boron][download][url] = "git@bitbucket.org:lolmaus/poly_boron.git"
 
 projects[] = aurora
 projects[ruscup_aurora][type] = "theme"
