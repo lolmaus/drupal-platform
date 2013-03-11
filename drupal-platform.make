@@ -112,7 +112,6 @@ libraries[lessphp][download][url] = "http://leafo.net/lessphp/src/lessphp-0.3.9.
 ; Themes
 ; --------
 projects[] = boron
-
 projects[amt_boron][type] = "theme"
 projects[amt_boron][download][type] = "git"
 projects[amt_boron][download][url] = "git@bitbucket.org:lolmaus/amt_boron.git"
@@ -122,3 +121,8 @@ projects[] = aurora
 projects[ruscup_aurora][type] = "theme"
 projects[ruscup_aurora][download][type] = "git"
 projects[ruscup_aurora][download][url] = "git@bitbucket.org:lolmaus/ruscup_aurora.git"
+
+projects[] = fusion
+projects[kursovik_fusion][type] = "theme"
+projects[kursovik_fusion][download][type] = "git"
+projects[kursovik_fusion][download][url] = git@bitbucket.org:lolmaus/kursovik_fusion.git
