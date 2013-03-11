@@ -1,4 +1,4 @@
-; lolmaus platform version 4
+; lolmaus platform version 5
 
 ; Core version
 ; ------------
