@@ -59,6 +59,7 @@ projects[flexslider][version] = 1.x-dev
 projects[] = fontyourface
 projects[] = fusion_accelerator
 projects[] = globalredirect
+projects[] = google_analytics
 projects[] = google_fonts
 projects[] = inline_entity_form
 projects[] = insert
