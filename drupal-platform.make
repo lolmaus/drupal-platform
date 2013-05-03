@@ -128,6 +128,14 @@ projects[poly_boron][type] = "theme"
 projects[poly_boron][download][type] = "git"
 projects[poly_boron][download][url] = "git@bitbucket.org:lolmaus/poly_boron.git"
 
+projects[airisto][type] = "theme"
+projects[airisto][download][type] = "git"
+projects[airisto][download][url] = "git@bitbucket.org:lolmaus/airisto.git"
+
+projects[amtenergo][type] = "theme"
+projects[amtenergo][download][type] = "git"
+projects[amtenergo][download][url] = "git@bitbucket.org:lolmaus/amtenergo.git"
+
 projects[] = aurora
 projects[ruscup_aurora][type] = "theme"
 projects[ruscup_aurora][download][type] = "git"
