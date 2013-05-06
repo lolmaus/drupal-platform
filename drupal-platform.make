@@ -139,7 +139,7 @@ projects[amtenergo][type] = "theme"
 projects[amtenergo][download][type] = "git"
 projects[amtenergo][download][url] = "git@bitbucket.org:lolmaus/amtenergo.git"
 
-projects[] = aurora
+projects[aurora][version] = 2
 projects[ruscup_aurora][type] = "theme"
 projects[ruscup_aurora][download][type] = "git"
 projects[ruscup_aurora][download][url] = "git@bitbucket.org:lolmaus/ruscup_aurora.git"
