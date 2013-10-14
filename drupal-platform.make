@@ -20,7 +20,7 @@ api = 2
 ; ------------
 ; In order for your makefile to generate a full Drupal site, you must include
 ; a core project. This is usually Drupal core, but you can also specify
-; alternative core projects like Pressflow. Note that makefiles included with
+; alternative core projects like Pressflow. Note that makefildes included with
 ; install profiles *should not* include a core project.
   
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
@@ -45,7 +45,7 @@ projects[] = context
 projects[] = ctools
 projects[] = date
 projects[] = disable_messages
-projects[] = draggableviews
+projects[draggableviews][version] = 2.x-dev
 projects[] = email
 projects[] = empty_page
 projects[] = entityreference
